@@ -12,7 +12,9 @@ A universal data structure for graph data that features:
 -   Semantic connection types
 -   Rich tagging functionality
 -   Built-in set operations
--   Potential persistence via TerminusDB or similar
+-   Persistence via TerminusDB or similar
+
+The core data structure is maintained in the [zome-core](https://github.com/jaysen/zome-core) repository. Refer to its README for detailed information on usage, installation, and contributing.
 
 ## MultiZome
 
