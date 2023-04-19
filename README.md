@@ -2,7 +2,7 @@
 
 A Unified Graph Data Suite
 
-ZomeWorks is a set of software tools designed to work with graph-like knowledge bases in an integrated and seamless way. The suite aims to provide a powerful and flexible solution for managing, navigating, and analyzing complex knowledge networks. The following components are currently planned:
+ZomeWorks is a planned set of software tools designed to work with graph-like knowledge bases in an integrated and seamless way. The suite aims to provide a powerful and flexible solution for managing, navigating, and analyzing complex knowledge networks. The following components are currently planned:
 
 ## The (rhi)Zome
 
